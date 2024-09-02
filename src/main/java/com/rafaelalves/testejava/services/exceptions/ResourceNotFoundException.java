@@ -1,4 +1,4 @@
-package com.rafaelalves.testejava.servicos.exceptions;
+package com.rafaelalves.testejava.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 

@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
 
 import com.rafaelalves.testejava.entities.Empresa;
 import com.rafaelalves.testejava.repository.EmpresaRepository;
-import com.rafaelalves.testejava.servicos.exceptions.DataBaseException;
-import com.rafaelalves.testejava.servicos.exceptions.ResourceNotFoundException;
+import com.rafaelalves.testejava.services.exceptions.DataBaseException;
+import com.rafaelalves.testejava.services.exceptions.ResourceNotFoundException;
 
 import jakarta.persistence.EntityNotFoundException;
 

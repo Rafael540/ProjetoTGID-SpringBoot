@@ -4,7 +4,7 @@ import java.util.Objects;
 
 import com.rafaelalves.testejava.exception.InsufficientBalanceException;
 import com.rafaelalves.testejava.services.TaxaAdministracao;
-import com.rafaelalves.testejava.servicos.exceptions.DataBaseException;
+import com.rafaelalves.testejava.services.exceptions.DataBaseException;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
